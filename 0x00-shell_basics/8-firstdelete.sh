@@ -1,2 +1,3 @@
 #!/bin/bash
-rm betty /tmp/my_first_directory
+# My first shell script 
+rm -r  betty /tmp/my_first_directory/  
