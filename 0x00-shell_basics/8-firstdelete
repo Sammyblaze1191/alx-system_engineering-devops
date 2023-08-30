@@ -1,2 +1,3 @@
 #!/bin/bash
+# bye bye betty
 rm betty /tmp/my_first_directory/betty /
