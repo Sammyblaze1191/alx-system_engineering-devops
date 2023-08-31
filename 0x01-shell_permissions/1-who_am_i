@@ -1,3 +1,2 @@
 #!/bin/bash 
-# My first script
-echo 1-who_am_i
+echo "current user"
