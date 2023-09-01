@@ -1,2 +1,2 @@
 #!/bin/bash
-chown USER:GROUP  -R vincent staff
+chown vincent:staff my_dir hello gold together we_move f
