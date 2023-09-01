@@ -1,2 +1,2 @@
 #!/bin/bash
-chown user:Group hello school
+chgrp hello school 
