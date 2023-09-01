@@ -1,2 +1,2 @@
 #!/bin/bash
-chown vincent:staff my_dir hello gold together we_move f
+chown vincent:staff my_dir hello
